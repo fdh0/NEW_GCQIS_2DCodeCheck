@@ -1,0 +1,7 @@
+; AlgLab2DCodeCheck.def : Declares the module parameters for the DLL.
+
+LIBRARY      
+DESCRIPTION  
+
+EXPORTS
+    ; Explicit exports can go here
